@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/*body{
+    background-color: blue;
+}*/
+#left{
+    /*background-color: burlywood;*/
+    width: 100%;
+    min-height: 250px;
+}
+#right{
+    /*background-color: cornsilk;*/
+    width: 100%;
+    min-height: 500px;
+}
+#title{
+    color: #0b03fc;
+    font-weight: bold;
+    /*line-height: 250px;*/
+    text-align: center;
+    font-size: 80px;
+    padding-top: 150px;
+   
+}
+#background{
+    background-color: #dedede;
+}
+.logIn{
+   width: 90%;
+   height: 360px;
+   background-color: #ffffff; 
+   /*line-height: 500px;*/
+   margin-top: 100px;
+   border-radius: 8px;
+}
+.mail{
+    width: 95%;
+    min-height: 50px;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 15px;
+    margin-left: 10px;
+    border: 1px solid #cacccb;
+}
+.mail:hover{
+    border: 1px solid blue;
+}
+#btn1{
+    background-color: blue;
+}
+.btn1l{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.aa{
+    text-decoration: none;
+    color: blue;
+    text-align: center;
+    padding-left: 120px;
+    padding-top: 20px;
+    margin-top: 20px;
+
+}
+.aa:hover{
+    text-decoration: underline;
+}
+.as{
+    text-align: center;
+    /*padding-top: 20px;
+    margin-top: 10px;*/
+    display: block;
+    margin: 0 auto;
+}
+.hr{
+    margin-top: 30px;
+
+}
+#btn2{
+    background-color: #00db25;
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+    
+}
+#tt2{
+    text-align: center;
+    margin: ;
+    padding-left: 10px;
+    margin-left: 10px;
+}
